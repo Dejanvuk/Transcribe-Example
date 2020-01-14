@@ -1,0 +1,57 @@
+h1 {
+    text-align:center;
+}
+
+.Buttons {
+    margin-top: 10px;
+}
+
+.btn-group {
+    margin: 10px 10px 10px 10px;
+}
+
+#btn-start {
+    width: 100px;
+    height: 65px;
+    text-align: center;
+    vertical-align:middle;
+    display:table-cell;
+    border-radius: 50%;
+    max-width:50%; 
+    max-height: 25%;
+    background-color: red;
+}
+
+#btn-stop {
+    width: 100px;
+    height: 65px;
+    text-align: center;
+    vertical-align:middle;
+    display:table-cell; 
+    border-radius: 50%;
+    max-width:50%; 
+    max-height: 25%;
+    background-color: blue;
+}
+
+#btn-reset {
+    width: 100px;
+    height: 65px;
+    text-align: center;
+    vertical-align:middle;
+    display:table-cell;
+    border-radius: 50%;
+    max-width:50%; 
+    max-height: 25%;
+    background-color: green;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 600px;
+    }
+}
+
+.error {
+    color: red;
+}
