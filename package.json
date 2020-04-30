@@ -18,7 +18,7 @@
     "bootstrap": "^4.3.1",
     "core-js": "^3.4.1",
     "crypto": "^1.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "microphone-stream": "^5.0.1",
     "opus-to-pcm": "^1.0.2",
     "react": "^16.11.0",
